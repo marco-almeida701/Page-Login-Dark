@@ -19,4 +19,3 @@ The Dark-themed Login Page project demonstrates the creation of a responsive log
 * **Google Fonts:** The 'Noto Sans' and 'Roboto' fonts are imported for text elements.
 * **Responsive Design:** Media queries are used to ensure the webpage's responsiveness across various screen sizes.
 
-  # The rest is in progress...
