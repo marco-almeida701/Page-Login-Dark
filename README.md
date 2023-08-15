@@ -29,4 +29,4 @@ The login page is designed to be responsive and adapt seamlessly to different sc
 ## Contributing
 Contributions to this project are not expected, as the project serves educational purposes. However, if you have suggestions or improvements, feel free to fork the project or open an issue.
 
-# Note: The images used in this project are for demonstration purposes only and do not represent real products or services.
+### Note: The images used in this project are for demonstration purposes only and do not represent real products or services.
